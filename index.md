@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-## [yet another one](./Post_1.md).
+!<--## [yet another one](./Post_1.html).-->
 
 There should be whitespace between paragraphs.
 
